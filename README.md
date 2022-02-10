@@ -7,3 +7,5 @@ Throughout this paper, I present some of the most famous Steganography Algorithm
 3. LSB - using K-Means Clustering
 4. LSB Proposed (Improved Method) - using AES and Pixel Sequence (Fisher-Yates Shuffle Algorithm - Durstenfeld's Version)
 5. DCT
+
+Here you can find the [repo](https://github.com/DLarisa/Steganography-Algorithms-and-Proposed-Method) that contains my earliest work, with all my trials and tribulations =).
