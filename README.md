@@ -1,5 +1,5 @@
 # Bachelor Thesis
-This repo contains my Bachelor's Thesis (2021) from the University of Bucharest, Faculty of Mathematics & Informatics. The title of the paper is: *Securing Information using Steganographic Techniques*. 
+This repo contains my Bachelor's Thesis (2021) from the University of Bucharest, Faculty of Mathematics & Informatics, written in Romanian. The title of the paper is: *Securing Information using Steganographic Techniques*. 
 
 Throughout this paper, I present some of the most famous Steganography Algorithms and I propose an improved method for LSB. Algorithms presented:
 1. LSB - Naive Implementation
